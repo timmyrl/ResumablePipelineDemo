@@ -513,7 +513,7 @@
                 },
                 "settings": {
                     "connTimeout": {
-                        "value": 30
+                        "value": 5
                     },
                     "executeDuringPreview": {
                         "value": true
@@ -561,7 +561,7 @@
                         "value": false
                     },
                     "timeout": {
-                        "value": 900
+                        "value": 10
                     },
                     "trustAllCerts": {
                         "value": true
@@ -624,7 +624,7 @@
                 },
                 "settings": {
                     "connTimeout": {
-                        "value": 30
+                        "value": 5
                     },
                     "executeDuringPreview": {
                         "value": true
@@ -672,7 +672,7 @@
                         "value": false
                     },
                     "timeout": {
-                        "value": 900
+                        "value": 10
                     },
                     "trustAllCerts": {
                         "value": true
