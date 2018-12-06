@@ -555,7 +555,7 @@
                     },
                     "serviceUrl": {
                         "expression": false,
-                        "value": "https://timothys-macbook-pro.local:8082/api/1/rest/feed-master/queue/snaplogic/projects/ResumablePipelineDemo/FaultyService1Task"
+                        "value": "https://localhost:8082/api/1/rest/feed-master/queue/snaplogic/projects/ResumablePipelineDemo/FaultyService1Task"
                     },
                     "showAllHeaders": {
                         "value": false
@@ -666,7 +666,7 @@
                     },
                     "serviceUrl": {
                         "expression": false,
-                        "value": "https://timothys-macbook-pro.local:8082/api/1/rest/feed-master/queue/snaplogic/projects/ResumablePipelineDemo/FaultyService2Task"
+                        "value": "https://localhost:8082/api/1/rest/feed-master/queue/snaplogic/projects/ResumablePipelineDemo/FaultyService2Task"
                     },
                     "showAllHeaders": {
                         "value": false
