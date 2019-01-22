@@ -526,7 +526,18 @@
                         "value": null
                     },
                     "header": {
-                        "value": []
+                        "value": [
+                            {
+                                "headerKey": {
+                                    "expression": false,
+                                    "value": "Authorization"
+                                },
+                                "headerValue": {
+                                    "expression": false,
+                                    "value": "Bearer abc123"
+                                }
+                            }
+                        ]
                     },
                     "nextUrl": {
                         "expression": true,
@@ -555,7 +566,7 @@
                     },
                     "serviceUrl": {
                         "expression": false,
-                        "value": "https://localhost:8082/api/1/rest/feed-master/queue/snaplogic/projects/ResumablePipelineDemo/FaultyService1Task"
+                        "value": "https://stage.elastic.snaplogic.com:443/api/1/rest/slsched/feed/automation/projects/ResumablePipelineDemo/FaultyService1Task"
                     },
                     "showAllHeaders": {
                         "value": false
@@ -637,7 +648,18 @@
                         "value": null
                     },
                     "header": {
-                        "value": []
+                        "value": [
+                            {
+                                "headerKey": {
+                                    "expression": false,
+                                    "value": "Authorization"
+                                },
+                                "headerValue": {
+                                    "expression": false,
+                                    "value": "Bearer abc123"
+                                }
+                            }
+                        ]
                     },
                     "nextUrl": {
                         "expression": true,
@@ -666,7 +688,7 @@
                     },
                     "serviceUrl": {
                         "expression": false,
-                        "value": "https://localhost:8082/api/1/rest/feed-master/queue/snaplogic/projects/ResumablePipelineDemo/FaultyService2Task"
+                        "value": "https://stage.elastic.snaplogic.com:443/api/1/rest/slsched/feed/automation/projects/ResumablePipelineDemo/FaultyService2Task"
                     },
                     "showAllHeaders": {
                         "value": false

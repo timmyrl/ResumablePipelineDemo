@@ -3,10 +3,10 @@
     "job_name": "OrderProcessingTask",
     "note": "",
     "parameters": {
-        "enabled": false,
+        "enabled": true,
         "execution_timeout": null,
         "include_external_urls": true,
-        "job_alias": "",
+        "job_alias": null,
         "job_type": "regular",
         "llfeed_token": null,
         "max_failures": 10,
@@ -14,18 +14,10 @@
         "notification": {
             "recipients": null
         },
-        "pipeline_path": "OrderProcessing",
-        "snaplex_path": "cloud",
-        "watchdog": {
-            "instances": 1,
-            "per": "PLEX"
-        }
+        "pipeline_path": "OrderProcessor",
+        "snaplex_path": "feedmaster"
     },
-    "schedule": {
-        "always_on": true
-    },
-    "trigger": {
-        "always_on": true
-    },
+    "schedule": {},
+    "trigger": {},
     "trigger_type": "ScheduleTrigger"
 }
