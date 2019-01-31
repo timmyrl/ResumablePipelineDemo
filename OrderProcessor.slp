@@ -47,7 +47,7 @@
         },
         "info": {
             "author": {
-                "value": "tstack@snaplogic.com"
+                "value": "tlui@snaplogic.com"
             },
             "label": {},
             "notes": {
@@ -566,7 +566,7 @@
                     },
                     "serviceUrl": {
                         "expression": false,
-                        "value": "https://stage.elastic.snaplogic.com:443/api/1/rest/slsched/feed/automation/projects/ResumablePipelineDemo/FaultyService1Task"
+                        "value": "https://uat.elastic.snaplogic.com:443/api/1/rest/slsched/feed/snaplogic/timSpace/ResumablePipeDemo/FaultyService1Task"
                     },
                     "showAllHeaders": {
                         "value": false
@@ -688,7 +688,7 @@
                     },
                     "serviceUrl": {
                         "expression": false,
-                        "value": "https://stage.elastic.snaplogic.com:443/api/1/rest/slsched/feed/automation/projects/ResumablePipelineDemo/FaultyService2Task"
+                        "value": "https://uat.elastic.snaplogic.com:443/api/1/rest/slsched/feed/snaplogic/timSpace/ResumablePipeDemo/FaultyService2Task"
                     },
                     "showAllHeaders": {
                         "value": false

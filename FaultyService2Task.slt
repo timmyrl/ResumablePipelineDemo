@@ -3,7 +3,7 @@
     "job_name": "FaultyService2Task",
     "note": "",
     "parameters": {
-        "enabled": false,
+        "enabled": true,
         "execution_timeout": null,
         "include_external_urls": true,
         "job_alias": null,
@@ -15,7 +15,7 @@
             "recipients": null
         },
         "pipeline_path": "FaultyService2",
-        "snaplex_path": "feedmaster"
+        "snaplex_path": "DockerFeedMaster"
     },
     "schedule": {},
     "trigger": {},
